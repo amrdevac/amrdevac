@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amrdevac
-- 👀 I’m interested in Laravel , Springboot ,Vue js
-- 🌱 I’m currently learning Spring Boot
+- 👀 I’m interested in Laravel , Golang ,React 
 
 - 📫 How to reach me : 
   - Instagram @amrullahdev
